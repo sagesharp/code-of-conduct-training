@@ -1,19 +1,67 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg" xmlns:ns1="http://sozi.baierouge.fr" xmlns:xlink="http://www.w3.org/1999/xlink" id="svg2" sodipodi:docname="blackpowerchick.svg" viewBox="0 0 364.48 398.76" sodipodi:version="0.32" version="1.0" inkscape:output_extension="org.inkscape.output.svg.inkscape" inkscape:version="0.46">
-  <sodipodi:namedview id="base" bordercolor="#666666" inkscape:pageshadow="2" guidetolerance="10.0" pagecolor="#ffffff" gridtolerance="10.0" inkscape:zoom="0.43549024" objecttolerance="10.0" borderopacity="1.0" inkscape:current-layer="g3459" inkscape:cx="229.32435" inkscape:cy="317.88896" inkscape:guide-bbox="true" inkscape:window-height="480" showgrid="false" inkscape:pageopacity="0.0" inkscape:window-width="640" showguides="true"/>
-  <g id="g3459" transform="matrix(.53285 0 0 .53285 -64.119 -79.429)">
-    <path id="path2506" sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccscccccccccccsssccsssc" style="fill-rule:evenodd;stroke:#000000;stroke-width:.80918px;fill:#000000" d="m494.11 149.49c-1.73 0.16-26.24 1.27-28.39 3.9-16.16-1.81-12.08 3.41-27.62 4.46l-34.96 7.88c-22.02 12.75-43.33 8.48-62.02 30.79-16.94-1.17-40 24.99-51.69 34.65-14.18 11.69-28.16 31.51-35.47 47.76-11.35 7.57-20.9 25.7-23.95 38.87-4.63 15.56-10.36 25.61-14.25 41.35-6.53 15.14-4.14 35.39-6.84 49.73-8.52 8.85-0.3 25.51-7.41 37.74 0 12.69 3.19 24.8 0.51 37.11 9.28 15.42 7.16 28.17 15.67 49.44 1.99 10.51 8.74 22.51 11.09 36.27 7.01 12 12.52 24.24 20.08 35.02 9.63 7.32 6.53 17.8 19.24 22.85 5.77 11.07 14.24 17.35 24.55 25.63 12.57 6.78 21.49 18.48 36.61 20.65 11.66 3.54 36.42 14.77 49.15 14.88 16.15 5.74 47.41 5.22 58.27-2.09-7.39 25.72-30.99 51.71-48.25 72.64 31.73-1.41 65.28 10.9 82.94 38.58 21.72 29.87 29.48 72.74 65.29 90.24 20 9.4 43.05 11.09 64.26 7.29 2.66-23.54 1.84-50.33 9.06-73.15 6.09-27.79 15.92-55.07 39.33-75.11 31.71 6.18 67.75 10.7 98.93 0.66 20.62-4.73 24.42-24.42 18.05-41.24-0.84-17.21 30.44-19.76 11.09-35.24-10.81-5.42 3.87-11.05 7.52-16.64 14.76-10.87-8.59-19.11-11.43-29.53-5.19-10.16 9.13-11.54 15.05-16.29 23.13-6.28 17.47-32.02 1.25-42.43-13.66-12.6-22.22-30.42-26.93-47.69 4.73-12.88 13.22-25.43 9.45-39.83-5.13-27.84-17.08-54.51-31.97-78.3 5.08-13.45 19-18.09 18.75-33.06 3.16-9.94 9.45-23.04 12.69-33.29 3.46-10.96 2.9-30.53-0.95-42.06-3.23-17.3-12.57-29.1-20.02-43.38-7.01-14.61-16.92-25.84-27.16-37.96-12.71-11.64-24.26-20.3-38.13-27.95-15.37-6.92-32.03-13.76-49.33-17.42-14.76-2.64-26.86-15.12-42.83-8.32-10.24-8.04-13.62-4.04-24.92-7.75-15.63 3.83-23.77-2.31-38.34-2.56-8.28 5.99-29.79 2.33-35.97 2.9zm73.83 460.74v8.65c-7.83 2.59-15.83 25.37-18.61 50.02-3.05 26.96 1.31 49.51 9.79 50.35 8.47 0.83 17.82-20.34 20.87-47.3 2.49-22.02 0.01-47.03-5.6-53.74v-7.64c13.71 4.38 21.72 29.25 18.05 61.72-3.9 34.47-19.46 61.14-34.74 59.63s-24.49-30.71-20.59-65.17c3.57-31.58 16.87-53.69 30.83-56.52z"/>
-    <path id="rect3403" style="fill-rule:evenodd;stroke:#000000;stroke-width:.60971px;fill:#000000" d="m142.84 637.33c-3.56-0.07-7.46 1.67-10.41 5l-7.97 8.97c-4.72 5.32-5.12 12.6-0.91 16.34 1.77 9.92 13.88 17.99 28.85 25.56 18.31 15.09 37.43 15.53 54.75 48.54 0.58 0.51 1.22 0.92 1.9 1.25l-26.25 29.59c-4.21 4.75-4.61 11.29-0.84 14.62l47.72 42.29c3.77 3.33 10.22 2.15 14.44-2.6l0.93-1.06 61.44 54.47c1.31 1.16 3.06 1.3 3.94 0.31s0.55-2.72-0.75-3.87l-61.47-54.47 7.13-8.03 61.46 54.46c1.31 1.16 3.06 1.31 3.94 0.32s0.53-2.72-0.78-3.88l-61.47-54.47 7.13-8.03 61.47 54.47c1.3 1.16 3.06 1.3 3.93 0.31 0.88-0.99 0.53-2.71-0.78-3.87l-61.44-54.47 7.13-8.03 61.44 54.47c1.3 1.15 3.09 1.27 3.97 0.28 0.87-0.99 0.52-2.72-0.79-3.88l-61.46-54.43 7.15-8.04 61.44 54.44c1.3 1.16 3.06 1.3 3.94 0.31 0.87-0.98 0.55-2.71-0.75-3.87l-61.47-54.44 7.12-8.03 61.47 54.44c1.31 1.16 3.03 1.3 3.91 0.31s0.55-2.72-0.75-3.87l-61.47-54.47 7.12-8.03 61.47 54.46c1.31 1.16 3.06 1.31 3.94 0.32s0.52-2.72-0.78-3.88l-61.47-54.47 7.16-8.03 61.43 54.47c1.31 1.16 3.06 1.3 3.94 0.31s0.56-2.75-0.75-3.9l-61.47-54.44 0.94-1.06c4.22-4.75 4.58-11.26 0.81-14.6l-47.68-42.28c-3.77-3.34-10.19-2.19-14.41 2.56l-26.28 29.6c-0.41-0.64-0.89-1.23-1.47-1.75-37.49-15.55-37.74-32.32-54.75-48.53-5.65-11.16-10.01-23.19-28.88-25.57-1.58-1.4-3.58-2.08-5.71-2.12zm1.56 13.09c4.43 0.01 9.48 1.95 13.81 5.66 7.69 6.6 10.16 16.35 5.5 21.78s-14.69 4.48-22.37-2.12c-7.69-6.6-10.13-16.36-5.47-21.79 2.03-2.37 5.08-3.53 8.53-3.53z"/>
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   sodipodi:docname="blackwomanprofile-openclipart-studio_hades.svg"
+   viewBox="0 0 364.48 398.76"
+   sodipodi:version="0.32"
+   version="1.0"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <defs
+     id="defs9" />
+  <sodipodi:namedview
+     id="base"
+     bordercolor="#666666"
+     inkscape:pageshadow="2"
+     guidetolerance="10.0"
+     pagecolor="#ffffff"
+     gridtolerance="10.0"
+     inkscape:zoom="0.43549024"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     inkscape:current-layer="g3459"
+     inkscape:cx="233.91688"
+     inkscape:cy="317.88896"
+     inkscape:guide-bbox="true"
+     inkscape:window-height="1018"
+     showgrid="false"
+     inkscape:pageopacity="0.0"
+     inkscape:window-width="1920"
+     showguides="true"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <g
+     id="g3459"
+     transform="matrix(0.53285,0,0,0.53285,-64.119,-79.429)">
+    <path
+       id="path2506"
+       sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccscccccccccccsssccsssc"
+       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.80918002px"
+       d="m 494.11,149.49 c -1.73,0.16 -26.24,1.27 -28.39,3.9 -16.16,-1.81 -12.08,3.41 -27.62,4.46 l -34.96,7.88 c -22.02,12.75 -43.33,8.48 -62.02,30.79 -16.94,-1.17 -40,24.99 -51.69,34.65 -14.18,11.69 -28.16,31.51 -35.47,47.76 -11.35,7.57 -20.9,25.7 -23.95,38.87 -4.63,15.56 -10.36,25.61 -14.25,41.35 -6.53,15.14 -4.14,35.39 -6.84,49.73 -8.52,8.85 -0.3,25.51 -7.41,37.74 0,12.69 3.19,24.8 0.51,37.11 9.28,15.42 7.16,28.17 15.67,49.44 1.99,10.51 8.74,22.51 11.09,36.27 7.01,12 12.52,24.24 20.08,35.02 9.63,7.32 6.53,17.8 19.24,22.85 5.77,11.07 14.24,17.35 24.55,25.63 12.57,6.78 21.49,18.48 36.61,20.65 11.66,3.54 36.42,14.77 49.15,14.88 16.15,5.74 47.41,5.22 58.27,-2.09 -7.39,25.72 -30.99,51.71 -48.25,72.64 31.73,-1.41 65.28,10.9 82.94,38.58 21.72,29.87 29.48,72.74 65.29,90.24 20,9.4 43.05,11.09 64.26,7.29 2.66,-23.54 1.84,-50.33 9.06,-73.15 6.09,-27.79 15.92,-55.07 39.33,-75.11 31.71,6.18 67.75,10.7 98.93,0.66 20.62,-4.73 24.42,-24.42 18.05,-41.24 -0.84,-17.21 30.44,-19.76 11.09,-35.24 -10.81,-5.42 3.87,-11.05 7.52,-16.64 14.76,-10.87 -8.59,-19.11 -11.43,-29.53 -5.19,-10.16 9.13,-11.54 15.05,-16.29 23.13,-6.28 17.47,-32.02 1.25,-42.43 -13.66,-12.6 -22.22,-30.42 -26.93,-47.69 4.73,-12.88 13.22,-25.43 9.45,-39.83 -5.13,-27.84 -17.08,-54.51 -31.97,-78.3 5.08,-13.45 19,-18.09 18.75,-33.06 3.16,-9.94 9.45,-23.04 12.69,-33.29 3.46,-10.96 2.9,-30.53 -0.95,-42.06 -3.23,-17.3 -12.57,-29.1 -20.02,-43.38 -7.01,-14.61 -16.92,-25.84 -27.16,-37.96 -12.71,-11.64 -24.26,-20.3 -38.13,-27.95 -15.37,-6.92 -32.03,-13.76 -49.33,-17.42 -14.76,-2.64 -26.86,-15.12 -42.83,-8.32 -10.24,-8.04 -13.62,-4.04 -24.92,-7.75 -15.63,3.83 -23.77,-2.31 -38.34,-2.56 -8.28,5.99 -29.79,2.33 -35.97,2.9 z m 73.83,460.74 v 8.65 c -7.83,2.59 -15.83,25.37 -18.61,50.02 -3.05,26.96 1.31,49.51 9.79,50.35 8.47,0.83 17.82,-20.34 20.87,-47.3 2.49,-22.02 0.01,-47.03 -5.6,-53.74 v -7.64 c 13.71,4.38 21.72,29.25 18.05,61.72 -3.9,34.47 -19.46,61.14 -34.74,59.63 -15.28,-1.51 -24.49,-30.71 -20.59,-65.17 3.57,-31.58 16.87,-53.69 30.83,-56.52 z"
+       inkscape:connector-curvature="0" />
   </g>
-  <metadata>
+  <metadata
+     id="metadata6">
     <rdf:RDF>
       <cc:Work>
         <dc:format>image/svg+xml</dc:format>
-        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-        <cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/publicdomain/" />
         <dc:publisher>
-          <cc:Agent rdf:about="http://openclipart.org/">
+          <cc:Agent
+             rdf:about="http://openclipart.org/">
             <dc:title>Openclipart</dc:title>
           </cc:Agent>
         </dc:publisher>
@@ -44,10 +92,14 @@
           </rdf:Bag>
         </dc:subject>
       </cc:Work>
-      <cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/">
-        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
-        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
-        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
       </cc:License>
     </rdf:RDF>
   </metadata>
